@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="H5OTThbgjwghWMicqfhz">
+    <mxGraphModel dx="786" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S0g4yheQsO2JcmuRHQyU-4" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;UART Device&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;RXD&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TXD&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CTS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;RTS&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="520" y="140" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="S0g4yheQsO2JcmuRHQyU-5" value="&lt;div&gt;&lt;i&gt;UART Host&lt;/i&gt;&lt;/div&gt;&lt;div&gt;RXD&lt;/div&gt;&lt;div&gt;TXD&lt;/div&gt;&lt;div&gt;CTS&lt;/div&gt;&lt;div&gt;RTS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="270" y="70" width="290" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
